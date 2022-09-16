@@ -1,0 +1,10 @@
+Coke 20 fl oz:::2.99:::0:::A1
+Iced Latte:::1.79:::5:::C3
+Giggles:::1.99:::5:::A2
+PepperMint Gum:::0.99:::4:::A3
+Eraser:::1.99:::5:::C0
+Pen:::1.50:::5:::B0
+Monster Energy Drink 24oz:::2.99:::5:::C1
+Cake:::3.99:::3:::A0
+Pencil Sharpener:::0.75:::5:::B1
+Fiji Natural Artesian Water 16.9oz:::1.25:::5:::C2
